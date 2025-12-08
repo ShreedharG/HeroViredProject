@@ -55,7 +55,11 @@
 
 | Student Dashboard | Admin Portal |
 |:-----------------:|:------------:|
-| <img src="" alt="Student Dashboard" width="100%"> | <img src="" alt="Admin Portal" width="100%"> |
+| <img src="./student.png" alt="Student Dashboard" width="100%"> | <img src="./admin.png" alt="Admin Portal" width="100%"> |
+
+| DB Schema | 
+|:-----------------:|
+| <img src="./db.png" alt="Student Dashboard" width="100%"> |
 | *Intuitive interface for tracking applications* | *Powerful tools for reviewing analytics* |
 
 
