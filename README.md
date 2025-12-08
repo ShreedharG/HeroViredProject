@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://socialify.git.ci/mynameparv/UniApply/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="UniApply Banner" width="100%" />
+  <img src="https://socialify.git.ci/ShreedharG/HeroViredProject/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="UniApply Banner" width="100%" />
 
   # 🎓 UniApply
   
@@ -15,7 +15,7 @@
   
   *Bridging the gap between students and their dream universities.*
 
-  [View Demo](https://uniapplyfrontend-tau.vercel.app/#/) • [Report Bug](https://github.com/mynameparv/UniApply/issues)
+  [View Demo](heroviredfrontend.vercel.app) • [Report Bug](https://github.com/ShreedharG/HeroViredProject/issues)
 </div>
 ---
 
@@ -57,7 +57,7 @@
 
 | Student Dashboard | Admin Portal |
 |:-----------------:|:------------:|
-| <img src="https://placehold.co/600x400/png?text=Student+Dashboard" alt="Student Dashboard" width="100%"> | <img src="https://placehold.co/600x400/png?text=Admin+Portal" alt="Admin Portal" width="100%"> |
+| <img src="" alt="Student Dashboard" width="100%"> | <img src="" alt="Admin Portal" width="100%"> |
 | *Intuitive interface for tracking applications* | *Powerful tools for reviewing analytics* |
 
 
