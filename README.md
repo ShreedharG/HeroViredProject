@@ -36,8 +36,6 @@
 - **✅ Verification**: Verify or reject submitted documents.
 - **🔄 Status Updates**: Move applications through the review pipeline.
 
-
-
 ---
 
 
@@ -66,13 +64,19 @@
 ## ⚡ Getting Started
 ### Installation
 
-1.  **Clone the repository**
+1.  **Clone the repositories**
+    Frontend Repo
     ```bash
-    git clone https://github.com/mynameparv/UniApply.git
-    cd UniApply
+    git clone https://github.com/ShreedharG/heroviredfrontend.
+    cd heroviredfrontend.
+    ```
+    Backend Repo
+    ```bash
+    git clone https://github.com/ShreedharG/heroViredBackend
+    cd heroViredBackend
     ```
 
-2.  **Backend Code Setup**
+3.  **Backend Code Setup**
     ```bash
     cd backend
     npm install
@@ -81,7 +85,7 @@
     npm run dev
     ```
 
-3.  **Frontend Code Setup**
+4.  **Frontend Code Setup**
     ```bash
     cd frontend
     npm install
