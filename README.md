@@ -69,36 +69,33 @@
 ### Installation
 
 1.  **Clone the repositories**
+
     Frontend Repo
     ```bash
     git clone https://github.com/ShreedharG/heroviredfrontend.
-    cd heroviredfrontend.
     ```
     Backend Repo
     ```bash
     git clone https://github.com/ShreedharG/heroViredBackend
-    cd heroViredBackend
     ```
 
-3.  **Backend Code Setup**
+2.  **Backend Code Setup**
     ```bash
-    cd backend
+    cd heroViredBackend
     npm install
     
     # Start Dev Server
     npm run dev
     ```
 
-4.  **Frontend Code Setup**
+3.  **Frontend Code Setup**
     ```bash
-    cd frontend
+    cd heroviredfrontend.
     npm install
 
     # start frontend application
     npm run dev
     ```
-
-    *Landing Page -> Login Page
 ---
 ### 🧭 Future Additions Roadmap
 
