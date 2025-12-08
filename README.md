@@ -15,7 +15,7 @@
   
   *Bridging the gap between students and their dream universities.*
 
-  [View Demo](heroviredfrontend.vercel.app) • [Report Bug](https://github.com/ShreedharG/HeroViredProject/issues)
+  [View Demo](https://heroviredfrontend.vercel.app/#/) • [Report Bug](https://github.com/ShreedharG/HeroViredProject/issues)
 </div>
 ---
 
